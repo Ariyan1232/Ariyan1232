@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ariyan1232
-- 👀 I’m interested in learning more languages.
-- 🌱 I’m currently learning HTML/CSS.
+- 👀 I’m interested in building new projects.
+- 🌱 I’m currently learning python and ML models.
 - 💞️ I’m looking to collaborate on websites and apps.
 - 📫 How to reach me ariyan.nagratha@gmail.com
 

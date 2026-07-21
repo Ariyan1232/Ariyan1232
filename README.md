@@ -1,73 +1,71 @@
-# Hi there! 👋 I'm Ariyan
+<p align="center">
+  <a href="https://github.com/Ariyan1232">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=826&text=Hi%20there!%20%F0%9F%91%8B%20I'm%20Ariyan" alt="Hi there! 👋 I&#39;m Ariyan" />
+  </a>
+</p>
 
-I'm a software developer with an interest in building reliable applications and continuously improving my problem-solving skills.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=760&height=44&lines=ITV%20%40Hitachi%20Rail%20%7C%20Computer%20Engineering%20%40McGill" alt="Typing headlines" />
+</p>
 
-## 🚀 About Me
+### 🚀 About Me
 
-- 🎓 Engineering student at McGill University
-- 💻 Interested in software development, ML systems, and algorithms
-- 🌱 Currently improving my data structures & algorithms skills through LeetCode
-- 🔨 Enjoy building projects with modern technologies
-- 📚 Always learning something new
+🔭 &nbsp;I'm currently working on **TripGenie**  
+🌱 &nbsp;I'm currently learning **ML and Full Stack Development**  
+👯 &nbsp;I'm looking to collaborate on **Development Tools and Full Stack Applications**
 
-## 🛠️ Technologies & Tools
+### 🛠️ Tech Stack
 
-### Languages
-- Python
-- Java
-- Swift
-- JavaScript
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+</p>
 
-### Frameworks & Libraries
-- SwiftUI
-- Firebase
-- Git
+### 🔗 Connect With Me
 
-### Tools
-- GitHub
-- VS Code
-- IntelliJ IDEA
-- Xcode
+<p align="left">
+  <a href="https://www.linkedin.com/in/ariyan-nagratha-408b6926b/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://devpost.com/Ariyan1232?ref_content=user-portfolio&amp;ref_feature=portfolio&amp;ref_medium=global-nav" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
+  <a href="mailto:ariyan.nagratha@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-## 📈 Currently Working On
+### 📊 GitHub Stats
 
-- Solving LeetCode problems consistently
-- Building personal projects
-- Learning software engineering best practices
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Ariyan1232&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Ariyan1232&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
-## 📂 Featured Projects
+### 📈 Contribution Graph
 
-### 🚀 Project Name
-Short description of what the project does.
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ariyan1232&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
-**Tech Stack:** Python, Flask, PostgreSQL
+### 💭 Dev Quote
 
-### 📱 Project Name
-Short description of the application.
-
-**Tech Stack:** SwiftUI, Firebase
-
-### 🤖 Project Name
-Brief explanation of the project.
-
-**Tech Stack:** Java
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
-
-## 🤝 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: your.email@example.com
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
 
 ---
-
-> "Always learning. Always building."
-
-<!---
-Ariyan1232/Ariyan1232 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center"><i>⭐️ From <a href="https://github.com/Ariyan1232">Ariyan1232</a></i></p>
